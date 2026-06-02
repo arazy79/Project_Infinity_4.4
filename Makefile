@@ -1,8 +1,8 @@
 VERSION = 4
 PATCHLEVEL = 4
-SUBLEVEL = 278
+SUBLEVEL = 302
 EXTRAVERSION =
-NAME = Blurry Fish Butt
+NAME = androidperf
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
